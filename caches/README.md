@@ -1,7 +1,7 @@
 Caches
 ======
 
-This directory is for caches. Everything here should be safe to delete.
+This directory is for caches. Everything here should be safe to delete. 
 
 Things cached here:
 
